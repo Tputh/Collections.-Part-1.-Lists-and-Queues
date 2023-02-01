@@ -1,4 +1,5 @@
 /.idea/
 /out/
 /src/
-/src/ServiceStation/
+/src/Transport/ServiceStation/
+/src/Transport/Driver/
